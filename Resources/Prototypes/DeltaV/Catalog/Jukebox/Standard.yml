@@ -114,3 +114,9 @@
   name: Caravan Palace - Lone Digger
   path:
     path: /Audio/DeltaV/Jukebox/Caravan_Palace_Lone_Digger-MONO.ogg
+
+- type: jukebox
+  id: Ъ12
+  name: Ъ12 - Call me
+  path:
+    path: /Audio/DeltaV/Jukebox/Ъ12-Call_me.ogg

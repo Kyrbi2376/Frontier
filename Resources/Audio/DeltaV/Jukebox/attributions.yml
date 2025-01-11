@@ -95,3 +95,8 @@
   license: "CC-BY-SA-3.0"
   copyright: "Lone Digger by Caravan Palace, converted to mono"
   source: "https://vimeo.com/144736865"
+
+- files: ["Ъ12-Call_me.ogg"]
+  license: "Custom"
+  copyright: "Call me by ъ12"
+  source: "https://www.youtube.com/watch?v=GrvX4GEHO0I"
